@@ -1,0 +1,9 @@
+{
+	"name": "TestADFSnowflakeIntegration",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29147b01-79fe-4926-a8cf-05167da92abb",
+		"tenantId": "55ca7513-cf4b-48c3-879e-269f6e62005e"
+	}
+}
